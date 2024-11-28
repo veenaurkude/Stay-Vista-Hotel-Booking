@@ -1,6 +1,6 @@
-# Stay Booker Pro
+# Stay-Vista Hotel Booking
 
-Stay Booker Pro is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: [staybooker-express-api](https://github.com/iZooGooD/stay-booker-hotel-booking-express-api)
+Stay-Vista is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: [staybooker-express-api](https://github.com/iZooGooD/stay-booker-hotel-booking-express-api)
 
 ## Key Features
 
@@ -25,13 +25,13 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iZooGooD/stay-booker-pro.git
+   git clone https://github.com/veenaurkude/Stay-Vista-Hotel-Booking.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd stay-booker-pro
+   cd Stay-Vista-Hotel-Booking
    ```
 
 3. Install dependencies:
@@ -68,10 +68,6 @@ This command will open the Cypress test runner, where you can execute specific t
 
 ## Code Quality and Workflow
 
-### Husky for Pre-Commit Hooks
-
-Stay Booker Pro uses Husky to manage pre-commit hooks, ensuring that code quality and formatting standards are maintained. Before each commit, Husky runs various checks to make sure that the committed code adheres to defined standards.
-
 ### GitHub Workflow
 
 The project is equipped with a GitHub Actions workflow to automate the testing, building, and code quality checks. The workflow consists of three primary jobs:
@@ -91,10 +87,6 @@ It would be most appropriate to include the linting instructions in the "Contrib
 Here's how you can seamlessly incorporate it into the "Contributing" section:
 
 ---
-
-## Contributing
-
-We welcome contributions to Stay Booker Pro! If you have suggestions or would like to contribute code, please feel free to create issues or submit pull requests.
 
 ### Code Quality and Linting
 
